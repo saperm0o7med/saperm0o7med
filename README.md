@@ -2,6 +2,7 @@ UK Road Safety and Accident Analysis
 This project provides a comprehensive analysis and predictive modeling of road accidents in the United Kingdom. It utilizes machine learning techniques to identify factors influencing accident severity and offers data-driven insights to improve road safety measures.
 
 Dataset Information
+
 The analysis is based on three main datasets:
 
 Accidents Data: General details regarding the circumstances of the crash.
@@ -17,13 +18,17 @@ Dataset Link: [https://drive.google.com/drive/folders/1q2uE3DIxVrJ3mwehl2NixP3T5
 Technical Stack
 
 Language: Python
+
 Environment: Google Colab
+
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 
 Project Methodology
 
 Data Cleaning: Handling missing values and preparing the three datasets for merging.
+
 Exploratory Data Analysis (EDA): Visualizing accident trends based on time, weather conditions, and road types.
+
 Feature Engineering: Selecting and encoding the most relevant variables for prediction.
 
 Machine Learning Modeling: Training and evaluating 13 models to predict accident severity levels.
