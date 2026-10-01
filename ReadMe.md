@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on<br>AI & Data Science projects, including AI-powered solutions e and sustainable technology.<br><br>👯 I’m looking to collaborate on<br>AI, Machine Learning, Data Science, Computer Vision, IoT, and innovative tech projects that solve real-world problems.<br><br>🤝 I’m looking for help with<br>Turning technical ideas into real, scalable products and improving my research skills in AI, ML, and Data Science.<br><br>🌱 I’m currently learning<br>Data Science, Machine Learning, Mathematics for ML, and AI research.<br><br>💬 Ask me about<br>AI, Data Science, Machine Learning, Computer Vision, IoT, startups, student projects, hackathons, and tech communities.<br><br>⚡ Fun fact<br>I’m a CS student who somehow ended up juggling university, AI projects, startups, events, and research ideas — and still keeps looking for the next thing to build. 😄<br><br>🌍 A little more about me<br>I’m a Computer Science semi-senior, passionate about AI and technology, and I enjoy connecting with people, learning from different experiences, and turning ideas into things that actually work.
 
 
